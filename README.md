@@ -17,7 +17,7 @@ Implements Custom Interfaces:
 Use `GetReferenceAt(int index)` to get a reference to a value type, so it can be modified directly in the collection. 
 
 ## IRange<T\> : IList<T\>
-Contains methods for adding, inserting, and removing multiple items in single operations. 
+Contains methods for adding, inserting, and removing multiple items in single operations.  
 Inherits from IList<T\>, to improve flexibility. 
 
 ## DynamicArrayTester
