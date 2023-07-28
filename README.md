@@ -20,7 +20,7 @@ Use `GetReferenceAt(int index)` to get a reference to a value type, so it can be
 Contains methods for adding, inserting, and removing multiple items in single operations. 
 Inherits from IList<T\>, to improve flexibility. 
 
-### DynamicArrayTester
+## DynamicArrayTester
 Static test class.  
 Made while in a Unity Project.  
 Convert to pure CSharp by replacing `Debug.Log` and `Debug.LogError` with `Console.WriteLine`.  
